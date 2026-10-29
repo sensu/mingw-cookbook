@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is scheduled to be archived on 13th November 2026.**
+>
+> After that date it will be read-only: no new commits, issues, or pull requests, and no further maintenance or security updates will be issued.
+
 # mingw Cookbook
 
 [![Cookbook Version](http://img.shields.io/cookbook/v/mingw.svg)][cookbook] [![Build Status](http://img.shields.io/travis/chef-cookbooks/mingw.svg?branch=master)][travis]
